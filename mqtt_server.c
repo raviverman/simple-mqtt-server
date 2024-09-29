@@ -1,3 +1,15 @@
+/*
+ * File: mqtt_server.c
+ * Project: simple-mqtt-server
+ * File Created: Saturday, 28th Sept 2024
+ * Author: Ravi Verman (raviverman@hotmail.com)
+ * -----
+ * Last Modified: Sunday, 29th Sept 2024
+ * Modified By: Ravi Verman (raviverman@hotmail.com)
+ * -----
+ * SPDX-License-Identifier: GPL-2.0-only
+ * Copyright 2024 Ravi Verman
+ */
 #include<sys/socket.h>
 #include<netinet/in.h>
 #include<unistd.h>
